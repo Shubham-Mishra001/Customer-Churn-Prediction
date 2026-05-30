@@ -1,6 +1,6 @@
-# 📊 Customer Churn Prediction System
+#  Customer Churn Prediction System
 
-## 📌 Project Overview
+##  Project Overview
 
 The Customer Churn Prediction System is a Machine Learning project developed to predict whether a customer is likely to leave a telecom company. The project uses classification algorithms and business insights to help companies improve customer retention strategies.
 
@@ -15,7 +15,7 @@ This project includes:
 
 ---
 
-# 🚀 Features
+#  Features
 
 ✅ Data Cleaning & Preprocessing
 ✅ Exploratory Data Analysis (EDA)
@@ -30,7 +30,7 @@ This project includes:
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 * Python
 * Pandas
@@ -45,7 +45,7 @@ This project includes:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 Customer-Churn-Prediction/
@@ -73,7 +73,7 @@ Customer-Churn-Prediction/
 
 ---
 
-# 📊 Exploratory Data Analysis
+#  Exploratory Data Analysis
 
 The project includes:
 
@@ -85,7 +85,7 @@ The project includes:
 
 ---
 
-# 🤖 Machine Learning Models
+#  Machine Learning Models
 
 The following classification models were trained and evaluated:
 
@@ -97,7 +97,7 @@ The following classification models were trained and evaluated:
 
 ---
 
-# 📈 SHAP Explainability
+#  SHAP Explainability
 
 SHAP (SHapley Additive exPlanations) was used to interpret model predictions and identify the most important features affecting customer churn.
 
@@ -110,7 +110,7 @@ Important features include:
 
 ---
 
-# 💻 Streamlit Web Application
+#  Streamlit Web Application
 
 The project includes a Streamlit web application where users can:
 
@@ -126,7 +126,7 @@ streamlit run app/app.py
 
 ---
 
-# 📷 Project Screenshots
+#  Project Screenshots
 
 ## Main Application
 
@@ -142,7 +142,7 @@ streamlit run app/app.py
 
 ---
 
-# 📥 Installation
+#  Installation
 
 Clone the repository:
 
@@ -170,7 +170,7 @@ streamlit run app/app.py
 
 ---
 
-# 📌 Business Impact
+#  Business Impact
 
 This project helps telecom companies:
 
@@ -182,12 +182,12 @@ This project helps telecom companies:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 Shubham Mishra
 
 ---
 
-# ⭐ Conclusion
+#  Conclusion
 
 The Customer Churn Prediction System demonstrates how Machine Learning can be used to solve real-world business problems effectively. The project combines predictive analytics, explainable AI, and interactive deployment to create a complete end-to-end Data Science solution.
