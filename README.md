@@ -91,9 +91,9 @@ The following classification models were trained and evaluated:
 
 | Model               | Accuracy |
 | ------------------- | -------- |
-| Logistic Regression | ~80%     |
-| Random Forest       | ~84%     |
-| XGBoost             | ~86-89%  |
+| Logistic Regression | ~81-82%     |
+| Random Forest       | ~79-80%     |
+| XGBoost             | ~80-81%  |
 
 ---
 
